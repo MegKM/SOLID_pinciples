@@ -20,7 +20,8 @@ public class SortArrayDescending : IArrayService
 {
     public void SortArray(int[] arr)
     {
-        //TODO - descending sort logic
+        Array.Sort(arr);
+        Array.Reverse(arr);
     }
 }
 
@@ -37,7 +38,7 @@ public class FindMissingArrayValue
         _array = array;
     }
 
-    //Use the interfaces generic sort ability to find the missing int in the array.
+    //Use the sorting strategy to order the array before searching for the missing number.
     //Print value to console.
     public void Run()
     {
