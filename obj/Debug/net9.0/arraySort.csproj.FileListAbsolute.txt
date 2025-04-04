@@ -1,0 +1,14 @@
+/home/synonym/code/arraySort/arraySort/bin/Debug/net9.0/arraySort
+/home/synonym/code/arraySort/arraySort/bin/Debug/net9.0/arraySort.deps.json
+/home/synonym/code/arraySort/arraySort/bin/Debug/net9.0/arraySort.runtimeconfig.json
+/home/synonym/code/arraySort/arraySort/bin/Debug/net9.0/arraySort.dll
+/home/synonym/code/arraySort/arraySort/bin/Debug/net9.0/arraySort.pdb
+/home/synonym/code/arraySort/arraySort/obj/Debug/net9.0/arraySort.GeneratedMSBuildEditorConfig.editorconfig
+/home/synonym/code/arraySort/arraySort/obj/Debug/net9.0/arraySort.AssemblyInfoInputs.cache
+/home/synonym/code/arraySort/arraySort/obj/Debug/net9.0/arraySort.AssemblyInfo.cs
+/home/synonym/code/arraySort/arraySort/obj/Debug/net9.0/arraySort.csproj.CoreCompileInputs.cache
+/home/synonym/code/arraySort/arraySort/obj/Debug/net9.0/arraySort.dll
+/home/synonym/code/arraySort/arraySort/obj/Debug/net9.0/refint/arraySort.dll
+/home/synonym/code/arraySort/arraySort/obj/Debug/net9.0/arraySort.pdb
+/home/synonym/code/arraySort/arraySort/obj/Debug/net9.0/arraySort.genruntimeconfig.cache
+/home/synonym/code/arraySort/arraySort/obj/Debug/net9.0/ref/arraySort.dll
